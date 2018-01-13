@@ -9,4 +9,4 @@ I made this site kind of randomly. While you're here: check out my stuff!
 * My [Patreon](patreon.com/geekkid1)
 
 Other than that, not much is interesting about me *or* this site. But look around.
-Be my guest!
+Be my guest! The site may not be good quality but it might be in the future!

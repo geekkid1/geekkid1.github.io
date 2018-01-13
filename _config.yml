@@ -16,8 +16,8 @@
 title: geekkid1 GitHub Pages Site
 email: ibtronfan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is currently under construction. Check back in a few
-  days to see if there is more content!
+  This site is currently under construction. Check back in a few weeks to see if
+  there is more (or any) content!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: geekkid1
