@@ -7,4 +7,5 @@ I participate on a team for the FIRST Tech Challenge robotics competition. The t
 <br> <br>
 We put the code for our robot on an Android phone using Android Studio. We then attach the phone to the bot and
 attach a second phone to a set of controllers. We use Direct Wi-Fi to connect the two phones and place the bot on
-the game field. We can then run Autonomous programs (or "*opmodes*") or TeleOp (driver controlled) opmodes.
+the game field. We can then run Autonomous programs (or "*opmodes*") or TeleOp (driver controlled) opmodes. <br> <br>
+This year our robotics team made it to the Virginia State Championship, in my second year on the team!

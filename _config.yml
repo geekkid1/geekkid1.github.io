@@ -28,6 +28,53 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-minifier
+  - jekyll-assets
+
+#portfolio_heading: My Projects
+#portfolio_type: carousel #cards or carousel
+
+#project_one: IsaacOS
+#project_one_description: A small os-like shell environment I am building. I made the mistake of choosing java for the language.
+#project_one_url: https://github.com/geekkid1/IsaacOS
+#project_one_icon: settings_ethernet # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
+
+#project_two: FTC Robotics
+#project_two_description: I help program for my school's robotics team!
+#project_two_url: https://github.com/jameshamann/jekyll-material-theme
+#project_two_icon: android
+
+
+#project_three: Third Project
+#project_three_description: Describe your project!
+#project_three_url: https://github.com/jameshamann/jekyll-material-theme
+#project_three_icon: hotel
+
+
+#project_four: Fourth Project
+#project_four_description: Describe your project!
+#project_four_url: https://github.com/jameshamann/jekyll-material-theme
+#project_four_icon: restaurant
+
+#skills:
+#  - name: android
+#  - name: atom
+#  - name: csharp
+#  - name: firefox
+#  - name: chrome
+#  - name: github
+#  - name: google
+#  - name: html5
+#  - name: java
+#  - name: javascript
+#  - name: nodejs
+#  - name: python
+#  - name: ruby
+#  - name: slack
+#  - name: sourcetree
+#  - name: visualstudio
+#  - name: wordpress
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
