@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Emily Blum, but *something* makes me think you knew that already. In all seriousness, this is my personal site. As of right now, it's pretty heavily under construction since the template that I used came with a lot of included information that has nothing to do with me.
+My name is Emily Blum, but _something_ makes me think you knew that already. In all seriousness, this is my personal site. As of right now, it's pretty heavily under construction since the template that I used came with a lot of included information that has nothing to do with me.
 
 So please bear with me as I make sure that everything on this website reflects the actual me, so you can learn more about me. I started with [the cv page](/cv) so go check it out if you want!
