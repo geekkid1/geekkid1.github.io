@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -432,7 +439,12 @@ ninja.data = [{
             window.location.href = "/pages/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-the-hitchhikers-39-guide-to-the-galaxy",
+          title: 'The Hitchhikers&amp;#39; Guide to the Galaxy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hitchhikers/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
