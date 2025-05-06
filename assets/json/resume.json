@@ -90,21 +90,21 @@
       "date": "2016",
       "issuer": "Microsoft",
       "url": "",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-file-word"
     },
     {
       "name": "Microsoft Excel",
       "date": "2016",
       "issuer": "Microsoft",
       "url": "",
-      "icon": ""
+      "icon": "fa-solid fa-table"
     },
     {
       "name": "Autodesk Inventor",
       "date": "2018",
       "issuer": "South Lakes High School",
       "url": "",
-      "icon": ""
+      "icon": "fa-light fa-cubes"
     }
   ],
   "publications": [],
@@ -112,7 +112,7 @@
     {
       "name": "Software Engineering",
       "level": "Proficient",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-terminal",
       "keywords": [
         "Python",
         "Java",
@@ -122,7 +122,7 @@
     {
       "name": "Web Development",
       "level":"Proficient",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-code",
       "keywords": [
         "HTML",
         "CSS",
