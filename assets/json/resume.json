@@ -18,7 +18,16 @@
       "startDate": "2024-07-08",
       "endDate": "2024-08-01",
       "summary": "Hired for Office Assistant position at CTE Summer Enrichment Program 2024 at Lake Braddock Secondary School. Was reassigned to in-classroom assistant due to a vacancy. In the office, helped parents and teachers get what they needed and get where they need to go. In the classroom, helped students navigate program activities.",
-      "highlights": ["Education"]
+      "highlights": ["Education Experience"]
+    },
+    {
+      "name": "Pupatella Reston",
+      "position": "Bartender/Front of House",
+      "url": "https://www.pupatella.com/",
+      "startDate": "2022-06-10",
+      "endDate": "2022-08-20",
+      "summary": "Hired to assist with front-of-house duties, primarily bartending. Prepared cocktails, poured beer and wine, and helped customers. Also assisted with other FoH duties such as opening and closing the store, stocking materials like napkins and silverware, and serving food from the kitchen to customers.<br><br><strong>Note:</strong> despite this being fairly recent experience, I happen to know that the location I worked at has changed managerial hands at least once since I worked there. I do not know whether they can vouch for my experience.",
+      "highlights": ["Bartending/Food Service Experience","Customer Facing Experience"]
     },
     {
       "name": "Fairfax County Government",
@@ -27,7 +36,7 @@
       "startDate": "2020-07-10",
       "endDate": "2020-10-11",
       "summary": "Hired to assist with processing and depositing application form data for the office of elections.",
-      "highlights": ["Government"]
+      "highlights": ["Government/Public Sector Experience"]
     },
     {
       "name": "Fairfax County Government",
@@ -36,7 +45,7 @@
       "startDate": "2019-06-15",
       "endDate": "2019-08-10",
       "summary": "Hired to assist with county-wide replacement of employee personal computers as well as completion of user tickets at the Fairfax Government Center.",
-      "highlights": ["Government","IT"]
+      "highlights": ["Government/Public Sector Experience","IT Experience"]
     }
   ],
   "volunteer": [
@@ -48,7 +57,7 @@
       "startDate": "2015-08-25",
       "endDate": "2020-03-19",
       "summary": "Led and later coached the software division of the student robotics team at South Lakes High School. Volunteer efforts ended only because of the COVID pandemic.",
-      "highlights": ["Software","Education"]
+      "highlights": ["Software Engineering Experience","Education Experience"]
     }
   ],
   "education": [
@@ -144,7 +153,28 @@
       "icon": ""
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Computer Science",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Application Programming",
+        "Web Development",
+        "Networking & Distributed Systems",
+        "Machine Learning",
+        "Data Processing & Analysis"
+      ]
+    },
+    {
+      "name": "Pop Culture",
+      "icon": "fa-solid fa-tv",
+      "keywords": [
+        "Video Games",
+        "Card Games",
+        "Tabletop RPGs (like Dungeons and Dragons)"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Professor John Otten",
