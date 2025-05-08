@@ -180,6 +180,11 @@
       "name": "Professor John Otten",
       "icon": "fa-solid fa-laptop",
       "reference": "Professor of Computer Science at George Mason University. I was a student in his class regarding law and ethics in the field of computer science. Contact him at jotten2@gmu.edu"
+    },
+    {
+      "name": "Ivy Hutton",
+      "icon": "fa-solid fa-user",
+      "reference": "Colleague on mixed-media endeavors. Can vouch for my professional motivations. Contact her at 706-505-3422"
     }
   ],
   "projects": []
