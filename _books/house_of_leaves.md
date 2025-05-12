@@ -2,10 +2,11 @@
 layout: book-review
 title: House of Leaves
 author: Mark Z. Danielewski
-cover: # No cover
+cover: https://upload.wikimedia.org/wikipedia/en/d/de/House_of_leaves.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0375703764 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: novels horror meta
+year: 2025
 tags: top-100
 buy_link:
 started: 2023-03-12

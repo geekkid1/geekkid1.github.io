@@ -8,6 +8,7 @@ isbn: 0330258648 # use ISBN to fetch cover (if no `olid` is provided, dashes are
 categories: classics novels sci-fi comedy
 tags: top-100
 buy_link:
+year: 2022
 started: 2020-03-12
 finished: 2022-01-28
 released: 1979
