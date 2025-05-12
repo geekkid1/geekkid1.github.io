@@ -2,7 +2,7 @@
 layout: rpg-review
 title: Dungeons and Dragons 5th Edition
 author: Wizards of the Coast
-cover: assets/img/rpg_covers/phb.jpg
+cover: assets/img/rpg_covers/phb.png
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0330258648 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics fantasy d20
