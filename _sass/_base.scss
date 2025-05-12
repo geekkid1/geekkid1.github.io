@@ -1405,6 +1405,14 @@ figure.cover {
     background-color: #a6517d;
   }
 
+  figcaption.digital,
+  figcaption.physical {
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #7691db;
+  }
+
   figcaption.uncategorized {
     font-family: monospace;
     color: #23212d;
