@@ -435,6 +435,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/house_of_leaves/";
+            },},{id: "books-at-the-mountains-of-madness",
+          title: 'At The Mountains of Madness',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mountains/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
