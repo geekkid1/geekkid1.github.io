@@ -1,7 +1,7 @@
 ---
 layout: rpg-review
 title: Chronicles of Darkness Second Edition
-author: Douglas Adams
+author: White Wolf
 cover: assets/img/rpg_covers/cofd.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0330258648 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
@@ -10,6 +10,8 @@ tags: top-100
 buy_link:
 year: 2022
 date: 2022-04-25
+started: 
+finished: 
 released: 2012
 stars: 5
 goodreads_review:
