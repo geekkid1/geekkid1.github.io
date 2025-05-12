@@ -430,6 +430,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hitchhikers/";
+            },},{id: "books-house-of-leaves",
+          title: 'House of Leaves',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/house_of_leaves/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
