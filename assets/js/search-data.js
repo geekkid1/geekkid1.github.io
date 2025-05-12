@@ -241,17 +241,6 @@ ninja.data = [{
             window.location.href = "/pages/2023/post-bibliography/";
           
         },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/pages/2023/jupyter-notebook/";
-          
-        },
       },{id: "post-a-post-with-custom-blockquotes",
         
           title: "a post with custom blockquotes",
@@ -510,6 +499,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "rpgs-dungeons-and-dragons-5th-edition",
+          title: 'Dungeons and Dragons 5th Edition',
+          description: "",
+          section: "Rpgs",handler: () => {
+              window.location.href = "/rpgs/dnd%205e/";
             },},{id: "rpgs-chronicles-of-darkness-second-edition",
           title: 'Chronicles of Darkness Second Edition',
           description: "",
