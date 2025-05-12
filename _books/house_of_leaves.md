@@ -5,7 +5,7 @@ author: Mark Z. Danielewski
 cover: assets/img/book_covers/hol.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0375703764 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: novels horror meta
+categories: novels horror meta long
 year: 2025
 tags: top-100
 buy_link:
