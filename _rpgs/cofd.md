@@ -5,7 +5,7 @@ author: White Wolf
 cover: assets/img/rpg_covers/cofd.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0330258648 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: dark fantasy
+categories: dark urban-fantasy d10
 tags: top-100
 buy_link:
 year: 2022
