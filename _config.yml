@@ -145,6 +145,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  rpgs:
+    output: true
   books:
     output: true
   news:
