@@ -1,6 +1,6 @@
 ---
 layout: page
-title: archives
+title: collections
 nav: true
 nav_order: 8
 dropdown: true
