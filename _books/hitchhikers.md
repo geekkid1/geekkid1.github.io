@@ -5,7 +5,7 @@ author: Douglas Adams
 cover: assets/img/book_covers/hitchhikers.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0330258648 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
+categories: classics novels sci-fi comedy
 tags: top-100
 buy_link:
 started: 2020-03-12
