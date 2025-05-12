@@ -51,7 +51,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-an-unfamiliar-blog",
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/books/";
+              },
+            },{id: "dropdown-role-playing-games",
+              title: "role playing games",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/rpgs/";
+              },
+            },{id: "post-an-unfamiliar-blog",
         
           title: "an unfamiliar blog",
         
@@ -496,6 +510,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "rpgs-chronicles-of-darkness-second-edition",
+          title: 'Chronicles of Darkness Second Edition',
+          description: "",
+          section: "Rpgs",handler: () => {
+              window.location.href = "/rpgs/cofd/";
             },},{
         id: 'social-email',
         title: 'email',
