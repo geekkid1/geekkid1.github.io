@@ -161,6 +161,11 @@ ninja.data = [{
           description: "",
           section: "Rpgs",handler: () => {
               window.location.href = "/rpgs/cofd/";
+            },},{id: "rpgs-prowlers-and-paragons-ultimate-edition",
+          title: 'Prowlers and Paragons Ultimate Edition',
+          description: "",
+          section: "Rpgs",handler: () => {
+              window.location.href = "/rpgs/prowler/";
             },},{
         id: 'social-email',
         title: 'email',
