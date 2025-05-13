@@ -195,6 +195,16 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  # my stuff
+  - _pages/publications.md
+  - _posts/2025-03-26-plotly.md
+  - _posts/2024-*.md
+  - _posts/2023-*.md
+  - _posts/2022-*.md
+  - _posts/2021-*.md
+  - _posts/2020-*.md
+  - _posts/2018-*.md
+  - _posts/2015-*.md
 keep_files:
   - CNAME
   - .nojekyll
