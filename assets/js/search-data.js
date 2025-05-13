@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/rpgs/";
               },
-            },{id: "post-an-unfamiliar-blog",
+            },{id: "post-looking-forward",
+        
+          title: "looking forward",
+        
+        description: "Thinking about the future as I prepare to graduate.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/pages/2025/future/";
+          
+        },
+      },{id: "post-an-unfamiliar-blog",
         
           title: "an unfamiliar blog",
         
