@@ -1,6 +1,6 @@
 ---
 layout: rpg-review
-title: Chronicles of Darkness Second Edition
+title: Chronicles of Darkness 2nd Ed
 author: White Wolf
 cover: assets/img/rpg_covers/cofd.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
