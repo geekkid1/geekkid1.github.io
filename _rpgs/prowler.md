@@ -2,7 +2,7 @@
 layout: rpg-review
 title: Prowlers and Paragons Ultimate Edition
 author: Lakeside Games
-cover: assets/img/rpg_covers/prowler.png
+cover: assets/img/rpg_covers/prowler.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0330258648 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: urban-fantasy bright superhero d6
