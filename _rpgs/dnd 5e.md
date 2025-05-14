@@ -1,6 +1,6 @@
 ---
 layout: rpg-review
-title: Dungeons and Dragons 5th Edition
+title: Dungeons and Dragons 5th Ed
 author: Wizards of the Coast
 cover: assets/img/rpg_covers/phb.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)

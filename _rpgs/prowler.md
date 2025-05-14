@@ -1,6 +1,6 @@
 ---
 layout: rpg-review
-title: Prowlers and Paragons Ultimate Edition
+title: Prowlers and Paragons Ultimate Ed
 author: Lakeside Games
 cover: assets/img/rpg_covers/prowler.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
