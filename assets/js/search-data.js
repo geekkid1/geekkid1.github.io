@@ -151,21 +151,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "rpgs-dungeons-and-dragons-5th-edition",
-          title: 'Dungeons and Dragons 5th Edition',
+            },},{id: "rpgs-dungeons-and-dragons-5th-ed",
+          title: 'Dungeons and Dragons 5th Ed',
           description: "",
           section: "Rpgs",handler: () => {
               window.location.href = "/rpgs/dnd%205e/";
-            },},{id: "rpgs-chronicles-of-darkness-second-edition",
-          title: 'Chronicles of Darkness Second Edition',
+            },},{id: "rpgs-chronicles-of-darkness-2nd-ed",
+          title: 'Chronicles of Darkness 2nd Ed',
           description: "",
           section: "Rpgs",handler: () => {
               window.location.href = "/rpgs/cofd/";
-            },},{id: "rpgs-prowlers-and-paragons-ultimate-edition",
-          title: 'Prowlers and Paragons Ultimate Edition',
+            },},{id: "rpgs-prowlers-and-paragons-ultimate-ed",
+          title: 'Prowlers and Paragons Ultimate Ed',
           description: "",
           section: "Rpgs",handler: () => {
               window.location.href = "/rpgs/prowler/";
+            },},{id: "rpgs-pathfinder-2nd-ed",
+          title: 'Pathfinder 2nd Ed',
+          description: "",
+          section: "Rpgs",handler: () => {
+              window.location.href = "/rpgs/pf2e/";
             },},{
         id: 'social-email',
         title: 'email',
