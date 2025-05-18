@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /cv-depr/
 title: cv
 description: This page has been moved.
 nav: false
