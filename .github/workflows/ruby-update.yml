@@ -1,0 +1,20 @@
+name: Update Gemfile.lock
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-gemfile-lock:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 'default'
+
+      - name: Update Gemfile.lock
+        run: bundle install
