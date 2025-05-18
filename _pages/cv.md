@@ -2,7 +2,7 @@
 layout: cv
 permalink: /resume/
 title: resume
-redirect-from:
+redirect_from:
   - /cv/
 nav: true
 nav_order: 5
