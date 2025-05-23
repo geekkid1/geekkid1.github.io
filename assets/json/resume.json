@@ -50,6 +50,15 @@
   ],
   "volunteer": [
     {
+      "organization":"The Unscripted Theatre",
+      "location":"Northern Virginia, USA",
+      "position":"Website Manager, Live Show Tech Team",
+      "url": "https://theunscriptedtheatre.com",
+      "startDate": "2023-07-20",
+      "summary": "Manage web presence for a Northern Virginia improvisational comedy troupe, as well as providing tech support for several live shows and the online streaming of them.",
+      "highlights": ["Web Experience", "Tech Experience", "Video Recording/Streaming Experience"]
+    },
+    {
       "organization": "FIRST Tech Challenge Team 7729",
       "location": "Reston, Virginia, USA",
       "position": "Software Lead / Coach",
