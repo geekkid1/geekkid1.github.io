@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Dedicated. Technical. Professional.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     Recent graduate, B.S. in Applied Computer Science
@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Emily Blum, but _something_ makes me think you knew that already. In all seriousness, this is my personal site. As of right now, it's pretty heavily under construction since the template that I used came with a lot of included information that has nothing to do with me.
+My name is Emily Blum, but _something_ makes me think you knew that already. In all seriousness, this is my personal site. It's still a little bit under construction but it's still quite serviceable. In the meantime, please pardon the dust.
 
-So please bear with me as I make sure that everything on this website reflects the actual me, so you can learn more about me. I started with [the cv page](/cv) so go check it out if you want!
+If you're here, it's probably because I gave you this url so you could access [the resume page](/resume). It's at that link right there, so if that's why you're here, go ahead and check it out.
 
 I have also done some work adding some [books that I have read and am currently reading](/books) if you want to check that out. It's a little bit more just a journaling thing for me but it's public and it looks nice so take a look!
