@@ -80,7 +80,12 @@ ninja.data = [{
             window.location.href = "/pages/2025/anew/";
           
         },
-      },{id: "books-the-hitchhikers-39-guide-to-the-galaxy",
+      },{id: "books-at-the-mountains-of-madness",
+          title: 'At The Mountains of Madness',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/frankenstein/";
+            },},{id: "books-the-hitchhikers-39-guide-to-the-galaxy",
           title: 'The Hitchhikers&amp;#39; Guide to the Galaxy',
           description: "",
           section: "Books",handler: () => {
