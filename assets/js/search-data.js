@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "This is a showcase of my GitHub account and a few of the repositories that I wanted to show off.",
+          description: "This is a showcase of my GitHub account and a few of the repositories that I wanted to show off. The APIs that usually make this page look rather nice appear to be down at the time I am making this edit, so apologies for that. The links still work though, so you can go check out some of my most favorite repositories.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/rpgs/";
               },
-            },{id: "post-looking-forward",
+            },{id: "post-reboot",
+        
+          title: "reboot?",
+        
+        description: "There&#39;s a possibility I&#39;ll post here more often. Probably not though.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/pages/2026/maybe/";
+          
+        },
+      },{id: "post-looking-forward",
         
           title: "looking forward",
         
