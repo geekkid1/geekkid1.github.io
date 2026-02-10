@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: This is a showcase of my GitHub account and a few of the repositories that I wanted to show off.
+description: This is a showcase of my GitHub account and a few of the repositories that I wanted to show off. The APIs that usually make this page look rather nice appear to be down at the time I am making this edit, so apologies for that. The links still work though, so you can go check out some of my most favorite repositories.
 nav: true
 nav_order: 4
 ---
