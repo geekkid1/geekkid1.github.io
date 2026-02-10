@@ -24,5 +24,7 @@ Honestly an incredibly expansive game system. I am using this article as a stand
 * Werewolf the Forsaken
 * Mage the Awakened
 * Vampire the Requiem
+* Demon the Descent
+* Mummy the Curse
 
 And, of course, the main Mortal game line which also includes the expanded supernatural micro-templates. All in all it's a very versatile system, since its game lines are often inter-compatible. This means you can play games with _drastically_ different characters with drastically different abilities and it works mechanically. It may not end up being balanced, but it works.

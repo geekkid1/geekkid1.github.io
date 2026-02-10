@@ -14,7 +14,7 @@ finished:
 released: 2000
 stars: 4
 goodreads_review:
-status: Reading
+status: Paused
 ---
 
 House of Leaves is a _fantastic_ example of slow-burn horror. It follows stories within stories, starting with a man that finds an unfinished manuscript for a documentary that does not exist inside his recently deceased blind neighbor's apartment.

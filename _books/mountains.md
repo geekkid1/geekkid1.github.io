@@ -10,11 +10,11 @@ year: 2025
 tags: top-100
 buy_link:
 started: 2025-04-25
-finished: 
+finished: 2025-11-22
 released: 1936
 stars: 4
 goodreads_review:
-status: Reading
+status: Finished
 ---
 
 At the Mountains of Madness is one of H.P. Lovecraft's best works in my opinion. This review represents my 2025 re-read of it, since I do not have definitive dates for when I first read it. Missing much of the racist and unintelligible undertones of the rest of his work, At the Mountains of Madness was unfortunately negatively recieved in its time and was cited by Lovecraft himself as causing the downfall of his writing career.
