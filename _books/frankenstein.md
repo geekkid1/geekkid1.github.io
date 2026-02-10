@@ -1,7 +1,7 @@
 ---
 layout: book-review
-title: At The Mountains of Madness
-author: H.P. Lovecraft
+title: Frankenstein
+author: Mary Shelley
 cover: assets/img/book_covers/frank.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780812974416 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
@@ -9,6 +9,7 @@ categories: classics horror novels sci-fi
 year: 2025
 tags: top-100
 buy_link:
+date: 2026-01-05
 started: 2025-11-04
 finished: 2026-01-05
 released: 1818
