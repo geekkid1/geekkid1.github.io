@@ -9,7 +9,7 @@ categories: classics horror novels short sci-fi
 year: 2025
 tags: top-100
 buy_link:
-#date: 2025-11-22
+date: 2025-11-22
 started: 2025-04-25
 finished: 2025-11-22
 released: 1936

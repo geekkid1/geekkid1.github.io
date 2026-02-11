@@ -9,7 +9,7 @@ categories: classics horror novels sci-fi
 year: 2025
 tags: top-100
 buy_link:
-#date: 2026-01-05
+date: 2026-01-05
 started: 2025-11-04
 finished: 2026-01-05
 released: 1818
