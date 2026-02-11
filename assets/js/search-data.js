@@ -91,16 +91,16 @@ ninja.data = [{
             window.location.href = "/pages/2025/anew/";
           
         },
-      },{id: "books-frankenstein",
-          title: 'Frankenstein',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/frankenstein/";
-            },},{id: "books-the-hitchhikers-39-guide-to-the-galaxy",
+      },{id: "books-the-hitchhikers-39-guide-to-the-galaxy",
           title: 'The Hitchhikers&amp;#39; Guide to the Galaxy',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hitchhikers/";
+            },},{id: "books-frankenstein",
+          title: 'Frankenstein',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/frankenstein/";
             },},{id: "books-house-of-leaves",
           title: 'House of Leaves',
           description: "",
