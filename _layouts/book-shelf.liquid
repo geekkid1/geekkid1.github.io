@@ -7,7 +7,14 @@ layout: page
   {% assign collection = site[page.collection] %}
   {% if collection and collection.size > 0 %}
     {% for item in collection reversed %}
+      {% if item.finished %}
+        {% assign current_year = item.finished | date: '%Y' %}
+      {% else %}
+        {% assign current_year = 'today' | date: '%Y' %}
+      {% endif %}
+      {% comment %}
       {% assign current_year = item.started | date: '%Y' %}
+      {% endcomment %}
       {% if current_year != year %}
         {% unless forloop.first %}
           </ul>
