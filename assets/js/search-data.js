@@ -96,11 +96,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hitchhikers/";
-            },},{id: "books-frankenstein",
-          title: 'Frankenstein',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/frankenstein/";
             },},{id: "books-house-of-leaves",
           title: 'House of Leaves',
           description: "",
@@ -111,6 +106,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mountains/";
+            },},{id: "books-frankenstein",
+          title: 'Frankenstein',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/frankenstein/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
