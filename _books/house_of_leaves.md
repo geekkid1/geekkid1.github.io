@@ -9,6 +9,7 @@ categories: novels horror meta long
 year: 2025
 tags: top-100
 buy_link:
+date: 2023-03-12
 started: 2023-03-12
 finished: 
 released: 2000
