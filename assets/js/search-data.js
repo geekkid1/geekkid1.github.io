@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/rpgs/";
               },
-            },{id: "post-reboot",
+            },{id: "post-books",
+        
+          title: "books!",
+        
+        description: "I have quite a lot of books to read now. I&#39;m excited",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/pages/2026/books/";
+          
+        },
+      },{id: "post-reboot",
         
           title: "reboot?",
         
@@ -111,16 +122,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/frankenstein/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "books-going-postal",
+          title: 'Going Postal',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+          section: "Books",handler: () => {
+              window.location.href = "/books/postal/";
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-if-you-can-see-this-announcement-it-means-i-updated-my-site-to-a-new-version-from-the-original-repository-i-got-the-template-from",
+          title: 'If you can see this announcement, it means I updated my site to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
