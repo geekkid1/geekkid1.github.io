@@ -120,18 +120,39 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- RenderCV Sections - Merge Experience and Volunteer -->
+        <!-- RenderCV Sections - DONT Merge Experience and Volunteer -->
         {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
         {% assign empty_array = '' | split: ',' %}
         {% assign exp = cv.sections.Experience | default: empty_array %}
-        {% assign vol = cv.sections.Volunteer | default: empty_array %}
-        {% assign combined_experience = exp | concat: vol %}
-        {% if combined_experience.size > 0 %}
+        {% comment %} {% assign vol = cv.sections.Volunteer | default: empty_array %} 
+        {% assign combined_experience = exp | concat: vol %} 
+        {% if combined_experience.size > 0 %} {% endcomment %}
+        {% if exp.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Experience</h3>
+            <h3 class="card-title font-weight-medium">Professional Experience</h3>
             <div>
-              {% assign entries = combined_experience %}
+              {% comment %} {% assign entries = combined_experience %} {% endcomment %}
+              {% assign entries = exp %}
+              {% include cv/experience.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
+        <!-- My Own Sections - DONT Merge Experience and Volunteer -->
+        {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
+        {% assign empty_array = '' | split: ',' %}
+        {% comment %} {% assign exp = cv.sections.Experience | default: empty_array %} {% endcomment %}
+        {% assign vol = cv.sections.Volunteer | default: empty_array %}
+        {% comment %} {% assign combined_experience = exp | concat: vol %}
+        {% if combined_experience.size > 0 %} {% endcomment %}
+        {% if vol.size > 0 %}
+          <a class="anchor" id="vol_experience"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Volunteer Experience</h3>
+            <div>
+              {% comment %} {% assign entries = combined_experience %} {% endcomment %}
+              {% assign entries = vol %}
               {% include cv/experience.liquid %}
             </div>
           </div>
