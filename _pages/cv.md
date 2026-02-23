@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: cv_new
 permalink: /resume/
 title: resume
 redirect_from:
