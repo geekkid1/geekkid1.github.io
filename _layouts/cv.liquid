@@ -126,7 +126,7 @@ layout: default
         {% assign exp = cv.sections.Experience | default: empty_array %}
         {% comment %} {% assign vol = cv.sections.Volunteer | default: empty_array %} 
         {% assign combined_experience = exp | concat: vol %} 
-        {% if combined_experience.size > 0 %} {% endcomment %}
+        {% # if combined_experience.size > 0 %} {% endcomment %}
         {% if exp.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
@@ -145,7 +145,7 @@ layout: default
         {% comment %} {% assign exp = cv.sections.Experience | default: empty_array %} {% endcomment %}
         {% assign vol = cv.sections.Volunteer | default: empty_array %}
         {% comment %} {% assign combined_experience = exp | concat: vol %}
-        {% if combined_experience.size > 0 %} {% endcomment %}
+        {% # if combined_experience.size > 0 %} {% endcomment %}
         {% if vol.size > 0 %}
           <a class="anchor" id="vol_experience"></a>
           <div class="card mt-3 p-3">
