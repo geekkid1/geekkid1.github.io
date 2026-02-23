@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-resume",
           title: "resume",
-          description: "This page highlights my experience, my education, and my skills.",
+          description: "This page highlights my experience, my education, and my skills. I am placing this here to force it to regen the page.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
