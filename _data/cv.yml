@@ -108,15 +108,19 @@ cv:
           - Software Engineering Experience
           - Education Experience
     Skills:
-      - label: Programming (Proficient)
-        details: Python, Java, JavaScript
+      - name: Programming
+        level: Proficient
+        keywords: "Python, Java, JavaScript"
         icon: fa-solid fa-terminal
-      - label: Web Development (Proficient)
-        details: HTML, CSS, JavaScript, Spring Boot, Thymeleaf
+      - name: Web Development
+        level: Proficient
+        keywords: "HTML, CSS, JavaScript, Spring Boot, Thymeleaf"
         icon: fa-solid fa-code
-      - label: Languages
-        details: English (native), French (low)
-        icon: fa-solid fa-language
+    Languages:
+      - name: English
+        summary: Native speaker
+      - name: French
+        summary: Moderate/low
     Awards:
       - title: Virginia State 'Control' Award
         authors:
@@ -140,3 +144,18 @@ cv:
         date: 2018
         issuer: South Lakes High School
         icon: fa-solid fa-cubes
+    Interests:
+      - name: Computer Science
+        icon: fa-solid fa-laptop
+        keywords: "Application Programming, Web Development, Networking & Distributed Systems, Machine Learning, Data Processing & Analysis"
+      - name: Pop Culture
+        icon: fa-solid fa-tv
+        keywords: "Video Games, Card Games, Tabletop RPGs (like Dungeons and Dragons)"
+    References:
+      - name: Professor John Otten
+        icon: fa-solid fa-feather-pointed
+        reference: Professor of Computer Science at George Mason University. I was a student in his class regarding law and ethics in the field of computer science. Contact him at jotten2@gmu.edu
+
+      - name: Ivy Hutton
+        icon: fa-solid fa-user
+        reference: Colleague on mixed-media endeavors. Can vouch for my professional motivations. Contact her at 706-505-3422
