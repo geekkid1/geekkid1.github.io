@@ -4,7 +4,7 @@ title: Queue-Time Game
 description: One of my personal demo projects.
 img: assets/img/12.jpg
 importance: 1
-category: personal
+category: fun
 ---
 
 The Queue-Time game is a personal project of mine that has fallen by the wayside. I still very much intend on completing it at some point, though my life has gotten rather chaotic. The general concept is a quiz or game in which you attempt to guess the queue time of an amusement park ride. It is a concept that I have actually engaged with *without* the benefit of an application to facilitate it.

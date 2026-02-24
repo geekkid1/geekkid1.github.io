@@ -207,6 +207,7 @@ exclude:
   - _posts/2020-*.md
   - _posts/2018-*.md
   - _posts/2015-*.md
+  - _projects/*_project.md
 keep_files:
   - CNAME
   - .nojekyll
