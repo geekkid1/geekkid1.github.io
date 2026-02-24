@@ -2,7 +2,7 @@
 layout: page
 title: Queue-Time Game
 description: One of my personal demo projects.
-img: assets/img/12.jpg
+img: 
 importance: 1
 category: fun
 ---
