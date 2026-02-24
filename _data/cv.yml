@@ -11,7 +11,7 @@ cv:
     Education:
       - institution: George Mason University
         area: Applied Computer Science
-        degree: BS
+        degree: Bachelor of Science
         grade:
         date:
         start_date: 2022-01
@@ -25,7 +25,7 @@ cv:
           - Cryptography, networking, and application design courses
       - institution: Northern Virginia Community College
         area: Computer Science
-        degree: AS
+        degree: Associate of Science
         grade:
         date:
         start_date: 2019-08

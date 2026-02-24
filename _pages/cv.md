@@ -8,7 +8,7 @@ nav: true
 nav_order: 5
 cv_pdf: resume2026Q1.pdf # you can also use external links here
 cv_format: rendercv
-description: This page highlights my experience, my education, and my skills. I am placing this here to force it to regen the page.
+description: This page highlights my experience, my education, and my skills.
 toc:
   sidebar: left
 ---
