@@ -143,6 +143,11 @@ ninja.data = [{
           description: "One of my personal demo projects.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/qt_quiz/";
+            },},{id: "projects-rest-database",
+          title: 'REST Database',
+          description: "A learning experience from a university class",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/restdb/";
             },},{id: "rpgs-dungeons-and-dragons-5th-ed",
           title: 'Dungeons and Dragons 5th Ed',
           description: "",
