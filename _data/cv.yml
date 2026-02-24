@@ -1,93 +1,142 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Emily Blum
-    - name: Date of Birth
-      value: 28th of January, 2001
-    - name: Languages
-      value: English
+cv:
+  name: Emily Blum
+  location: Herndon, VA
+  email: emily.n.blum01@gmail.com
+  phone: +1-571-431-9441
+  website:
+  social_networks:
+    - network: GitHub
+      username: geekkid1
+  sections:
+    Education:
+      - institution: George Mason University
+        area: Applied Computer Science
+        degree: BS
+        grade:
+        date:
+        start_date: 2022-01
+        end_date: 2025-05
+        location: Fairfax, VA, USA
+        summary:
+        highlights:
+          - Workplace simulation courses
+          - Law and Ethics in Computing Professions course
+          - Software usability course
+          - Cryptography, networking, and application design courses
+      - institution: Northern Virginia Community College
+        area: Computer Science
+        degree: AS
+        grade:
+        date:
+        start_date: 2019-08
+        end_date: 2021-12
+        location: Sterling, VA, USA
+        summary:
+        highlights:
+          - Learned Computer Science basics, prepared me for Bachelor's level education.
+    Experience:
+      - company: PassCS
+        position: Computer Science Tutor
+        date:
+        start_date: 2025-09
+        end_date: present
+        location: Fairfax, VA, USA
+        summary: Providing a flexible schedule to supplement other income with Tutoring income while helping up-and-coming Computer Science Students at George Mason University. Website may be inactive outside of University class dates.
+        highlights:
+          - Education Experience
+      - company: Squishable, Inc.
+        position: Seasonal Retail Sales Lead
+        date:
+        start_date: 2025-11
+        end_date: 2026-01
+        location: Tysons, VA, USA
+        summary: Hired to help cover Squishable’s Tyson’s Corner Mall location for the peak of traffic during the holiday season. Involved working through stressful situations and troubleshooting problems on the fly.
+        highlights:
+          - Working under pressure
+          - Customer-facing experience
+      - company: Fairfax County Public Schools
+        position: Office/Classroom Assistant
+        date:
+        start_date: 2025-07
+        end_date: 2025-08
+        location: Fairfax, VA, USA
+        summary: Hired for Office Assistant position at CTE Summer Enrichment Program 2024 at Lake Braddock Secondary School. Was reassigned to in-classroom assistant due to a vacancy. In the office, helped parents and teachers get what they needed and get where they need to go. In the classroom, helped students navigate program activities.
+        highlights:
+          - Education Experience
+          - Working with a large team
+      - company: Pupatella Reston
+        position: Bartender/Front of House
+        date:
+        start_date: 2025-07
+        end_date: 2025-08
+        location: Fairfax, VA, USA
+        summary: Hired to assist with front-of-house duties, primarily bartending. Prepared cocktails, poured beer and wine, and helped customers. Also assisted with other FoH duties such as opening and closing the store, stocking materials like napkins and silverware, and serving food from the kitchen to customers.
+        highlights:
+          - Working under pressure
+          - Working with a team
+          - Customer-facing experience
+      - company: Fairfax County Office of Elections
+        position: Data Entry
+        date:
+        start_date: 2024-08
+        end_date: 2024-10
+        location: Fairfax, VA, USA
+        summary: Hired to assist with processing and depositing application form data for the office of elections.
+        highlights:
+          - Working with a team
+          - Public Sector Experience
+    Volunteer:
+      - company: The Unscripted Theatre
+        position: Webmaster and Performance Tech
+        date:
+        start_date: 2023-07
+        end_date: present
+        location: Northern VA, USA
+        summary: Manage web presence for a Northern Virginia improvisational comedy troupe, as well as providing tech support for several live shows and the online streaming of them.
+        highlights:
+          - Web Experience
+          - Tech Experience
+          - Video Recording/Streaming Experience
+      - company: South Lakes HS Robotics Team
+        position: Software Team Lead/Coach
+        date:
+        start_date: 2015-10
+        end_date: 2020-03
+        location: Reston, VA, USA
+        summary: Led and later coached the software division of the student robotics team at South Lakes High School. Volunteer efforts ended only because of the COVID pandemic.
+        highlights:
+          - Software Engineering Experience
+          - Education Experience
+    Skills:
+      - label: Programming (Proficient)
+        details: Python, Java, JavaScript
+        icon: fa-solid fa-terminal
+      - label: Web Development (Proficient)
+        details: HTML, CSS, JavaScript, Spring Boot, Thymeleaf
+        icon: fa-solid fa-code
+      - label: Languages
+        details: English (native), French (low)
+        icon: fa-solid fa-language
+    Awards:
+      - title: Virginia State 'Control' Award
+        authors:
+          - "FIRST Tech Challenge (FTC)"
+        date: 2019
+        awarder: FIRST Tech Challenge (FTC)
+        url: https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/award-descriptions.pdf
+        summary: At the Virginia State FIRST Tech Challenge event in 2019, the Control Award was awarded to team 7729 as a result of their novel autonomous sensor systems, including gyroscopic turning and visual collision detection. Both of these systems were team projects led by Emily Blum at the time.
+    Certificates:
+      - name: Microsoft Word
+        date: 2016
+        issuer: Microsoft
+        icon: fa-solid fa-file-word
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor's, Applied Computer Science w/ concentration in Software Engineering
-      institution: George Mason University
-      year: 2025
-      description:
-        - Participated in a specialized degree program focusing on Software Engineering principles.
-        - Learned professional practices, worked in at least one development team every semester, and used a diverse array of technologies.
-    - title: Associate's, Computer Science
-      institution: Northern Virginia Community College
-      year: 2021
-      description:
-        - By virtue of intersecting with the Pandemic, was able to learn great skills regarding working in a remote environment.
-        - Primarily consisted of preparation for Bachelor's degree track otherwise.
+      - name: Microsoft Word
+        date: 2016
+        issuer: Microsoft
+        icon: fa-solid fa-table
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Assistant, Office and Classroom
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      - name: Autodesk Inventor
+        date: 2018
+        issuer: South Lakes High School
+        icon: fa-solid fa-cubes
