@@ -183,6 +183,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-queue-time-game",
+          title: 'Queue-Time Game',
+          description: "One of my personal demo projects.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/qt_quiz/";
             },},{id: "rpgs-dungeons-and-dragons-5th-ed",
           title: 'Dungeons and Dragons 5th Ed',
           description: "",
