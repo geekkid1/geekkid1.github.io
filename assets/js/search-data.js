@@ -112,26 +112,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/house_of_leaves/";
-            },},{id: "books-frankenstein",
-          title: 'Frankenstein',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/frankenstein/";
-            },},{id: "books-making-money",
-          title: 'Making Money',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/money/";
             },},{id: "books-at-the-mountains-of-madness",
           title: 'At The Mountains of Madness',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mountains/";
+            },},{id: "books-frankenstein",
+          title: 'Frankenstein',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/frankenstein/";
             },},{id: "books-going-postal",
           title: 'Going Postal',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/postal/";
+            },},{id: "books-making-money",
+          title: 'Making Money',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/money/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
