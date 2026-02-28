@@ -28,4 +28,6 @@ Wow! I finished the book in less than a week! I can not think of any kind of rec
 
 And now, on to the book! _Going Postal_ is a perfectly witty and sarcastic entry to open my reading of Discworld. The characters are distinct and memorable, and the story, while fairly straightforward in the end, is still gripping and enjoyable.
 
+Serial con-man Moist Von Lipwig is thrown into a job he is wholly unprepared for and must do his best with what he is given, uncovering rivals and obstacles at every turn that he must deal with. His new job? Postmaster for the Ankh-Mopork Post Office. And he must move the mail.
+
 The jokes and the way the world was built up were very compelling. I can't find much else to say about it, because when I have written longer reviews in the past it has been to find flaws, or aspects I did not expect. _Going Postal_ was a warm, comforting descent back into a setting I have enjoyed all my life. I do not need it to be any more than that.
