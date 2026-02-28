@@ -9,7 +9,7 @@ categories: comedy fantasy discworld
 year: 2026
 tags: top-100 discworld
 buy_link:
-# date: 2026-01-05
+date: 2026-02-27
 started: 2026-02-22
 finished: 2026-02-27
 released: 2004
