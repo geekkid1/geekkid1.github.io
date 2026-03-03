@@ -9,13 +9,13 @@ categories: comedy fantasy discworld
 year: 2026
 tags: top-100 discworld
 buy_link:
-date: 2026-02-28
+date: 2026-03-03
 started: 2026-02-27
-finished:
+finished: 2026-03-03
 released: 2007
-stars: 3
+stars: 4
 goodreads_review:
-status: Reading
+status: Finished
 ---
 
 To ambitiously continue my Discworld saga, I am moving on to a book that I have, as a matter of fact, never read! It is next in the Moist Von Lipwig saga, however, and I do not wish to jump around the setting too much, so I _must_ continue (that, and I am actually quite excited for _Making Money_).
