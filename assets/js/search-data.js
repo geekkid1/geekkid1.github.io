@@ -132,6 +132,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/money/";
+            },},{id: "books-mort",
+          title: 'Mort',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mort/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
