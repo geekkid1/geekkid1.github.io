@@ -137,6 +137,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mort/";
+            },},{id: "books-reaper-man",
+          title: 'Reaper Man',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/reaper_man/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
