@@ -22,7 +22,7 @@ To ambitiously continue my Discworld saga, I am moving on to a book that I have,
 
 Having finished it as of the writing of this particular part of the review (and all of the parts below it), I can say a few things about it. I think that the story was, all things considered, very similar to that of _Going Postal_.
 
-My general feeling is that *although* I wish it was more different, there was still enjoyable humor and memorable characters. Not quite as *many* memorable characters though, I'm afraid. Characters that would have had a bit more attention paid to them in _Going Postal_ were barely mentioned more than once in _Making Money_.
+My general feeling is that *although* I wish it was more different, there was still enjoyable humor and memorable characters. Not quite as *many* memorable characters though, I'm afraid. Characters that would have had a bit more attention paid to them in _Going Postal_ were barely mentioned more than once in _Making Money_, even after being given names and stories. It felt odd.
 
 Still, overall I enjoyed the book quite a lot, so I can not find real reason to mark it down to anything less than 4 stars.
 
