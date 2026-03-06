@@ -7,7 +7,7 @@ olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780812974416 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: comedy fantasy discworld
 year: 2026
-tags: top-100 discworld
+tags: top-100 discworld discworld-lipwig
 buy_link:
 date: 2026-02-27
 started: 2026-02-22
