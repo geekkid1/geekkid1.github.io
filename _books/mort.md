@@ -15,7 +15,7 @@ finished: 2026-03-04
 released: 1987
 stars: 5
 goodreads_review:
-status: Reading
+status: Finished
 ---
 
 Now I continue along my Discworld journey from the Moist von Lipwig saga (tragically cut short by the fact that the bundle I purchased did not in fact include _Raising Steam_) to the Death saga! That most primordial of beings in the Discworld setting has his own set of books, starting with _Mort_, about a young boy who becomes Death's apprentice and has to get used to the eccentricities of being the assistant of the Grim Reaper himself.
