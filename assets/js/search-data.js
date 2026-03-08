@@ -153,6 +153,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/reaper_man/";
+            },},{id: "books-soul-music",
+          title: 'Soul Music',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/soul_music/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
