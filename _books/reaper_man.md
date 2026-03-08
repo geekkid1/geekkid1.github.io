@@ -9,13 +9,23 @@ categories: comedy fantasy discworld
 year: 2026
 tags: top-100 discworld discworld-death
 buy_link:
-date: 2026-03-05
+date: 2026-03-08
 started: 2026-03-04
-finished:
+finished: 2026-03-08
 released: 1991
 stars: 5
 goodreads_review:
-status: Reading
+status: Finished
 ---
 
 I continue the Death saga with _Reaper Man_! I'm going to try to take a bit more time on this one. It's a tad longer than _Mort_, so I'm hoping that won't be too difficult. We'll see. Sometimes I just read and read and read without realizing.
+
+Aaaaand I'm finished! This one took a little bit longer, I have a small amount of pride in saying. At the rate that I am reading I should have a comfortable amount to read for weeks to come.
+
+_Reaper Man_ is yet another odd story about the ubiquitous Death, primordial force and Anthropomorphic Personification of, yes, death, in Discworld. In particular this story starts with him getting fired from his job.
+
+The book explores the idea of something that has never been human trying to be human, as well as the repercussions (or perhaps _reaper_ -cussions) of there temporarily being no such thing as Death.
+
+The Auditors of Reality make an appearance, The Wizards occupy most of the plot that isn't directly dedicated to Death himself, and the book even marks the origin of Death's counterpart... the Death of Rats!
+
+All in all it is a fantastic installment, full of both quite interesting tension and quite funny comedy.
