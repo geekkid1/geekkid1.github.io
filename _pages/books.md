@@ -12,6 +12,7 @@ collection: books
 
 ## Books that I am reading, have read, or will read
 
-This is _not_ an exhaustive list, especially for any time before this website came online, or any time I was too busy to update this website. They are sorted by the date that I finished them, so ones that I am currently reading will always show up under today's date.
+This is _not_ an exhaustive list, especially for any time before this website came online, or any time I was too busy to update this website. They are sorted by the date that I finished them, so ones that I am currently reading will tend to show up under today's date.
 
-Now with reverted layouts so I can start entering the huge amount of Discworld books I'm about to read and re-read.
+
+Fair warning that there may be spoilers for the books in their respective reviews.

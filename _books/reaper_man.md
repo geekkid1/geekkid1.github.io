@@ -28,4 +28,6 @@ The book explores the idea of something that has never been human trying to be h
 
 The Auditors of Reality make an appearance, The Wizards occupy most of the plot that isn't directly dedicated to Death himself, and the book even marks the origin of Death's counterpart... the Death of Rats!
 
+There is also a rather bizarre final standoff involving things that should never have lived coming alive, particularly a *parasite* feeding off the city of Ankh-Mopork... the insidious *shopping mall*. Yes. There's a final battle between wizards and a living shopping mall. It's crazy and chock-full of tongue-in-cheek references to real-life shopping malls. Certainly not what I was expecting in the conclusion of this book, but it works, and it pays off quite a lot of foreshadowing from earlier in the book.
+
 All in all it is a fantastic installment, full of both quite interesting tension and quite funny comedy.
