@@ -9,9 +9,9 @@ categories: comedy fantasy discworld
 year: 2026
 tags: top-100 discworld discworld-death
 buy_link:
-date: 2026-04-22
+date: 2026-04-20
 started: 2026-03-23
-finished: 2026-04-22
+finished: 2026-04-20
 released: 1996
 stars: 5
 goodreads_review:
