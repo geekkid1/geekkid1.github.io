@@ -2,7 +2,7 @@
 layout: book-review
 title: Guards! Guards!
 author: Terry Pratchett
-cover: assets/img/book_covers/guards.png
+cover: assets/img/book_covers/guards.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780812974416 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: comedy fantasy discworld
