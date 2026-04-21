@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/rpgs/";
               },
-            },{id: "post-testing-something",
+            },{id: "post-four-more",
+        
+          title: "four more",
+        
+        description: "A more leisurely pace now",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/pages/2026/four-more/";
+          
+        },
+      },{id: "post-testing-something",
         
           title: "testing something",
         
