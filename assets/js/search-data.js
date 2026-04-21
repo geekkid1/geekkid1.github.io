@@ -174,6 +174,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hogfather/";
+            },},{id: "books-guards-guards",
+          title: 'Guards! Guards!',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/guards/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
