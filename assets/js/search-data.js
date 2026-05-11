@@ -190,6 +190,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/guards/";
+            },},{id: "books-men-at-arms",
+          title: 'Men at Arms',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/men_at_arms/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
