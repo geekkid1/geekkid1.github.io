@@ -195,8 +195,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/men_at_arms/";
-            },},{id: "books-men-at-arms",
-          title: 'Men at Arms',
+            },},{id: "books-feet-of-clay",
+          title: 'Feet of Clay',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/feet_of_clay/";
