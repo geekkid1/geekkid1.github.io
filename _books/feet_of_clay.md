@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Men at Arms
+title: Feet of Clay
 author: Terry Pratchett
 cover: assets/img/book_covers/feet_of_clay.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
@@ -9,7 +9,7 @@ categories: comedy fantasy discworld
 year: 2026
 tags: top-100 discworld discworld-watch
 buy_link:
-date: 2026-05-20
+date: 2026-05-28
 started: 2026-05-20
 finished: 
 released: 1996
