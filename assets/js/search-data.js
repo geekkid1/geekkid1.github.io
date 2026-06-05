@@ -200,6 +200,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/feet_of_clay/";
+            },},{id: "books-jingo",
+          title: 'Jingo',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/jingo/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
