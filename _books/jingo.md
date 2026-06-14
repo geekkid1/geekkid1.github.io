@@ -26,4 +26,4 @@ The sea-borne city of Leshp, despite being the inciting incident of the story, t
 
 As Vimes and the rest of the Watch protagonists race to stop the impending war between Klatch and Ankh-Mopork, more of the underlying history and indeed main story come to light, leading to a rather complex ending, I think.
 
-I did not quite enjoy _Jingo_ as much as I enjoyed _Feet of Clay_, I will admit that much. There were some story threads in _Feet of Clay_ that seemed like they were left open for continuation further down the storyline (which would be in _Jingo_), but they weren't paid off and some of them were outright ignored. Still, _Jingo_ was a fantastic book and I am glad that I have had the opportunity to read it through.
+I did not quite enjoy _Jingo_ as much as I enjoyed _Feet of Clay_, I will admit that much. There were some story threads in _Feet of Clay_ that seemed like they were left open for continuation further down the storyline (which would be in _Jingo_, in case you're not following there), but they weren't paid off and some of them were outright ignored. Still, _Jingo_ was a fantastic book and I am glad that I have had the opportunity to read it through.

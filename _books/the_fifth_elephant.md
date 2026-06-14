@@ -9,7 +9,7 @@ categories: comedy fantasy discworld
 year: 2026
 tags: top-100 discworld discworld-watch
 buy_link:
-date: 2026-06-15
+date: 2026-06-14
 started: 2026-06-14
 finished:
 released: 1999
