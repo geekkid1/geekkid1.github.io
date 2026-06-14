@@ -35,11 +35,21 @@ cv:
         highlights:
           - Learned Computer Science basics, prepared me for Bachelor's level education.
     Experience:
+      - company: AGE Solutions
+        position: Intern
+        date:
+        start_date: 2026-06
+        end_date: present
+        location: Remote
+        summary: Completing projects as part of a summer internship program to obtain professional knowledge and experience.
+        highlights:
+          - Professional Experience
+          - Remote Work
       - company: PassCS
         position: Computer Science Tutor
         date:
         start_date: 2025-09
-        end_date: present
+        end_date: 2026-05
         location: Fairfax, VA, USA
         summary: Providing a flexible schedule to supplement other income with Tutoring income while helping up-and-coming Computer Science Students at George Mason University. Website may be inactive outside of University class dates.
         highlights:
@@ -69,7 +79,7 @@ cv:
         date:
         start_date: 2025-07
         end_date: 2025-08
-        location: Fairfax, VA, USA
+        location: Reston, VA, USA
         summary: Hired to assist with front-of-house duties, primarily bartending. Prepared cocktails, poured beer and wine, and helped customers. Also assisted with other FoH duties such as opening and closing the store, stocking materials like napkins and silverware, and serving food from the kitchen to customers.
         highlights:
           - Working under pressure
