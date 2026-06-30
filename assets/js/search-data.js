@@ -210,6 +210,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_fifth_elephant/";
+            },},{id: "books-night-watch",
+          title: 'Night Watch',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/night_watch/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
