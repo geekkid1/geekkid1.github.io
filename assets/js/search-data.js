@@ -210,11 +210,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_fifth_elephant/";
+            },},{id: "books-the-lord-of-the-rings",
+          title: 'The Lord of the Rings',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/lotr/";
             },},{id: "books-night-watch",
           title: 'Night Watch',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/night_watch/";
+            },},{id: "books-thief-of-time",
+          title: 'Thief of Time',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thief_of_time/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
