@@ -1,12 +1,17 @@
-$(document).ready(function () {
-  // Init Masonry
-  var $grid = $(".grid").masonry({
+document.addEventListener("DOMContentLoaded", () => {
+  const grid = document.querySelector(".grid");
+
+  if (!grid || typeof window.Masonry !== "function") {
+    return;
+  }
+
+  const masonry = new window.Masonry(grid, {
     gutter: 10,
     horizontalOrder: true,
     itemSelector: ".grid-item",
   });
-  // Layout Masonry after each image loads
-  $grid.imagesLoaded().progress(function () {
-    $grid.masonry("layout");
-  });
+
+  const relayout = () => masonry.layout();
+  window.addEventListener("load", relayout);
+  setTimeout(relayout, 100);
 });

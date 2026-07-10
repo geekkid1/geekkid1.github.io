@@ -1,35 +1,69 @@
-$(document).ready(function () {
+document.addEventListener("DOMContentLoaded", () => {
   // add toggle functionality to abstract, award and bibtex buttons
-  $("a.abstract").click(function () {
-    $(this).parent().parent().find(".abstract.hidden").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+  document.querySelectorAll("a.abstract").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      const scope = link.closest("li, .card-body, article, .post, .row") || link.parentElement;
+      if (!scope) {
+        return;
+      }
+      scope.querySelectorAll(".abstract.hidden").forEach((panel) => panel.classList.toggle("open"));
+      scope.querySelectorAll(".award.hidden.open").forEach((panel) => panel.classList.toggle("open"));
+      scope.querySelectorAll(".bibtex.hidden.open").forEach((panel) => panel.classList.toggle("open"));
+    });
   });
-  $("a.award").click(function () {
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden.open").toggleClass("open");
+
+  document.querySelectorAll("a.award").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      const scope = link.closest("li, .card-body, article, .post, .row") || link.parentElement;
+      if (!scope) {
+        return;
+      }
+      scope.querySelectorAll(".abstract.hidden.open").forEach((panel) => panel.classList.toggle("open"));
+      scope.querySelectorAll(".award.hidden").forEach((panel) => panel.classList.toggle("open"));
+      scope.querySelectorAll(".bibtex.hidden.open").forEach((panel) => panel.classList.toggle("open"));
+    });
   });
-  $("a.bibtex").click(function () {
-    $(this).parent().parent().find(".abstract.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".award.hidden.open").toggleClass("open");
-    $(this).parent().parent().find(".bibtex.hidden").toggleClass("open");
+
+  document.querySelectorAll("a.bibtex").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      const scope = link.closest("li, .card-body, article, .post, .row") || link.parentElement;
+      if (!scope) {
+        return;
+      }
+      scope.querySelectorAll(".abstract.hidden.open").forEach((panel) => panel.classList.toggle("open"));
+      scope.querySelectorAll(".award.hidden.open").forEach((panel) => panel.classList.toggle("open"));
+      scope.querySelectorAll(".bibtex.hidden").forEach((panel) => panel.classList.toggle("open"));
+    });
   });
-  $("a").removeClass("waves-effect waves-light");
+
+  document.querySelectorAll("a").forEach((anchor) => {
+    anchor.classList.remove("waves-effect", "waves-light");
+  });
 
   // bootstrap-toc
-  if ($("#toc-sidebar").length) {
-    // remove related publications years from the TOC
-    $(".publications h2").each(function () {
-      $(this).attr("data-toc-skip", "");
+  const tocSidebar = document.querySelector("#toc-sidebar");
+  if (tocSidebar) {
+    document.querySelectorAll(".publications h2").forEach((heading) => {
+      heading.setAttribute("data-toc-skip", "");
     });
-    var navSelector = "#toc-sidebar";
-    var $myNav = $(navSelector);
-    Toc.init($myNav);
-    $("body").scrollspy({
-      target: navSelector,
-      offset: 100,
-    });
+    if (window.tocbot && typeof window.tocbot.init === "function") {
+      window.tocbot.init({
+        tocSelector: "#toc-sidebar",
+        contentSelector: '[role="main"]',
+        headingSelector: "h2, h3",
+        ignoreSelector: "[data-toc-skip]",
+        hasInnerContainers: true,
+        collapseDepth: 3,
+        orderedList: false,
+        activeLinkClass: "is-active-link",
+        scrollSmooth: true,
+        scrollSmoothOffset: -80,
+        headingsOffset: 80,
+      });
+    }
   }
 
   // add css to jupyter notebooks
@@ -38,23 +72,27 @@ $(document).ready(function () {
   cssLink.rel = "stylesheet";
   cssLink.type = "text/css";
 
-  let jupyterTheme = determineComputedTheme();
+  const jupyterTheme = determineComputedTheme();
 
-  $(".jupyter-notebook-iframe-container iframe").each(function () {
-    $(this).contents().find("head").append(cssLink);
+  document.querySelectorAll(".jupyter-notebook-iframe-container iframe").forEach((iframe) => {
+    iframe.addEventListener("load", () => {
+      const iframeDocument = iframe.contentDocument;
+      if (!iframeDocument) {
+        return;
+      }
 
-    if (jupyterTheme == "dark") {
-      $(this).bind("load", function () {
-        $(this).contents().find("body").attr({
-          "data-jp-theme-light": "false",
-          "data-jp-theme-name": "JupyterLab Dark",
-        });
-      });
-    }
+      iframeDocument.head.appendChild(cssLink.cloneNode(true));
+
+      if (jupyterTheme === "dark") {
+        iframeDocument.body?.setAttribute("data-jp-theme-light", "false");
+        iframeDocument.body?.setAttribute("data-jp-theme-name", "JupyterLab Dark");
+      }
+    });
   });
 
-  // trigger popovers
-  $('[data-toggle="popover"]').popover({
-    trigger: "hover",
+  document.querySelectorAll('[data-bs-toggle="popover"], [data-toggle="popover"]').forEach((element) => {
+    if (window.bootstrap && typeof window.bootstrap.Popover === "function") {
+      new window.bootstrap.Popover(element, { trigger: "hover" });
+    }
   });
 });
