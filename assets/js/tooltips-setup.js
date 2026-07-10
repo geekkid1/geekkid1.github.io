@@ -1,1 +1,1 @@
-$(function(){$('[data-toggle="tooltip"]').tooltip()});
+document.addEventListener("DOMContentLoaded",()=>{if(!window.bootstrap)return;Array.from(document.querySelectorAll('[data-bs-toggle="tooltip"], [data-toggle="tooltip"]')).forEach(o=>{window.bootstrap.Tooltip&&new window.bootstrap.Tooltip(o)});Array.from(document.querySelectorAll('[data-bs-toggle="popover"], [data-toggle="popover"]')).forEach(o=>{window.bootstrap.Popover&&new window.bootstrap.Popover(o)})});
