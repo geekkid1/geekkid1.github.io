@@ -34,11 +34,12 @@ function getCurrentScrollPosition() {
 function initializeProgressElement() {
   const navbar = document.getElementById("navbar");
   const navbarHeight = navbar ? navbar.offsetHeight : 0;
-  document.body.style.paddingTop = `${navbarHeight}px`;
+
+  document.body.style.paddingTop = "0px";
 
   const progressContainer = document.querySelector(".progress-container");
   if (progressContainer) {
-    progressContainer.style.paddingTop = `${navbarHeight}px`;
+    progressContainer.style.paddingTop = "0px";
   }
 
   if (progressBar) {
