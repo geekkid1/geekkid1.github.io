@@ -1,1 +1,1 @@
-document.addEventListener("DOMContentLoaded",()=>{"function"==typeof window.mediumZoom&&window.mediumZoom("[data-zoomable]",{background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee"})});
+$(document).ready(function(){medium_zoom=mediumZoom("[data-zoomable]",{background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee"})});
