@@ -9,7 +9,7 @@ categories: comedy fantasy discworld
 year: 2026
 tags: top-100 discworld discworld-death
 buy_link:
-date: 2026-07-07
+date: 2026-07-21
 started: 2026-07-07
 finished:
 released: 2001

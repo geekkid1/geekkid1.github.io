@@ -9,7 +9,7 @@ categories: fantasy classics
 year: 2026
 tags: top-100 tolkien
 buy_link:
-date: 2026-07-07
+date: 2026-07-22
 started: 2026-07-06
 finished:
 released: 1954
@@ -23,3 +23,5 @@ Now, it is most likely going to be a _very_ long way down the line that I actual
 I'll be updating this entry as I continue to read, but I'll be taking breaks in between to read Discworld books, so in all likelihood, given the size of the pages, the size of the type on the pages, and the _number_ of pages, this will take me months. I'm looking forward to it.
 
 All of that being said, I have read _The Lord of the Rings_ before and so this review will probably not be very insightful. It has been some years since I last read it though, and this is an edition I haven't read before, so we'll see if I have anything to say about it.
+
+I've finished the "first book", which extends from the beginning to the arrival of the protagonists at Rivendell. The edition has some extra maps and prologues that I've never seen in previous editions of Lord of the Rings that I've read. It's quite interesting, to be honest.
